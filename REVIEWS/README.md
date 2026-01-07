@@ -1,1 +1,1 @@
-# Recenzije – početak
+# Recenzije – početakPočetni opis sekcije recenzija
